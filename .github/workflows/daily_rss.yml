@@ -27,7 +27,7 @@ jobs:
         run: uv pip install --system -r requirements.txt
 
       - name: Run collector
-        run: uv run collect_blogs.py # (.venv) dir> python collect_blogs.py
+        run: python collect_blogs.py # (.venv) dir> python collect_blogs.py
 
       - name: Commit and Push changes
         run: |
