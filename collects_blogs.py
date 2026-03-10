@@ -15,7 +15,7 @@ def collect_news():
 
     for source, url in FEEDS.items():
         feed = feedparser.parse(url)
-        summary_content += f"### {source}\n"
+        summary_content += f"### {source}\n"s
         
         # 최근 3개의 포스트만 가져오기
         entries = feed.entries[:3]
