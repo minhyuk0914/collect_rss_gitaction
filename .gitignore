@@ -2,8 +2,3 @@
 __pycache__/
 *.pyc
 .DS_Store
-collect_blogs.py
-requirements.txt
-*.py
-*.txt
-data/
