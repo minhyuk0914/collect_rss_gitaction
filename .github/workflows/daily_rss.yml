@@ -1,0 +1,36 @@
+name: Daily AI Blog Collector
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5 
+        with:
+          version: "latest"
+
+      - name: Set up Python
+        run: uv python install 3.11
+
+      - name: Install dependencies
+        run: |
+          uv pip install -r requirements.txt
+
+      - name: Run collector
+        run: uv run collect_blogs.py # (.venv) dir> python collect_blogs.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "action@github.com"
+          git add .
+          git commit -m "Update AI Blog News: $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push
