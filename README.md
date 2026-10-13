@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-12)
+## LLM 공식 블로그 업데이트 (2026-10-13)
 
 ### OpenAI
 - [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) (Fri, 09 Oct 2026 07:00:00 GMT)
