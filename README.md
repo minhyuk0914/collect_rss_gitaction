@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-14)
+## LLM 공식 블로그 업데이트 (2026-10-15)
 
 ### OpenAI
-- [Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice) (Tue, 13 Oct 2026 12:00:00 GMT)
-- [Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos) (Fri, 09 Oct 2026 07:00:00 GMT)
-- [Asana cuts model costs 76x in browser tests with GPT-6.1 Sol](https://openai.com/index/asana-browser-agent) (Fri, 09 Oct 2026 07:00:00 GMT)
+- [Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding) (Wed, 14 Oct 2026 12:00:00 GMT)
+- [SentinelOne cuts malware analysis from weeks to hours](https://openai.com/index/sentinelone) (Wed, 14 Oct 2026 12:00:00 GMT)
+- [How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research) (Wed, 14 Oct 2026 07:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
