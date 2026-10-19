@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-18)
+## LLM 공식 블로그 업데이트 (2026-10-19)
 
 ### OpenAI
 - [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) (Fri, 16 Oct 2026 19:00:00 GMT)
