@@ -1,17 +1,17 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-20)
+## LLM 공식 블로그 업데이트 (2026-10-21)
 
 ### OpenAI
-- [Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages) (Mon, 19 Oct 2026 12:00:00 GMT)
-- [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) (Fri, 16 Oct 2026 19:00:00 GMT)
-- [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners) (Fri, 16 Oct 2026 00:00:00 GMT)
+- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) (Tue, 20 Oct 2026 10:00:00 GMT)
+- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x) (Tue, 20 Oct 2026 07:00:00 GMT)
+- [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio) (Tue, 20 Oct 2026 00:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
 
 ### Google AI
+- [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/) (Wed, 21 Oct 2026 04:00:00 +0000)
 - [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) (Tue, 13 Oct 2026 16:00:00 +0000)
 - [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) (Wed, 07 Oct 2026 12:00:00 +0000)
-- [The latest AI news we announced in September 2026](https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/) (Fri, 02 Oct 2026 15:00:00 +0000)
 
