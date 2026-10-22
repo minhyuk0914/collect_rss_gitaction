@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-21)
+## LLM 공식 블로그 업데이트 (2026-10-22)
 
 ### OpenAI
-- [Franchisee reconciles cash in 94% less time with ChatGPT Work](https://openai.com/index/ted-taylor-restaurant) (Tue, 20 Oct 2026 10:00:00 GMT)
-- [Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x) (Tue, 20 Oct 2026 07:00:00 GMT)
-- [OpenAI acquires Orchestra Bio](https://openai.com/index/openai-to-acquire-orchestra-bio) (Tue, 20 Oct 2026 00:00:00 GMT)
+- [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal) (Wed, 21 Oct 2026 17:00:00 GMT)
+- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards) (Wed, 21 Oct 2026 21:00:00 GMT)
+- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) (Wed, 21 Oct 2026 12:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
