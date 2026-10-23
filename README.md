@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-22)
+## LLM 공식 블로그 업데이트 (2026-10-23)
 
 ### OpenAI
-- [How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal) (Wed, 21 Oct 2026 17:00:00 GMT)
-- [Broad access through consistent standards](https://openai.com/index/broad-access-through-consistent-standards) (Wed, 21 Oct 2026 21:00:00 GMT)
-- [OpenAI models are coming to Google Cloud](https://openai.com/index/openai-models-google-cloud) (Wed, 21 Oct 2026 12:00:00 GMT)
+- [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership) (Fri, 23 Oct 2026 00:00:00 GMT)
+- [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) (Thu, 22 Oct 2026 19:00:00 GMT)
+- [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means) (Thu, 22 Oct 2026 06:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
