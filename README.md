@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-23)
+## LLM 공식 블로그 업데이트 (2026-10-24)
 
 ### OpenAI
+- [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) (Fri, 23 Oct 2026 17:00:00 GMT)
+- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment) (Fri, 23 Oct 2026 10:00:00 GMT)
 - [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership) (Fri, 23 Oct 2026 00:00:00 GMT)
-- [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) (Thu, 22 Oct 2026 19:00:00 GMT)
-- [What FDE means at OpenAI](https://openai.com/index/forward-deployed-engineering-means) (Thu, 22 Oct 2026 06:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
