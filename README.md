@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-25)
+## LLM 공식 블로그 업데이트 (2026-10-26)
 
 ### OpenAI
 - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) (Fri, 23 Oct 2026 17:00:00 GMT)
