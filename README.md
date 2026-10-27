@@ -1,17 +1,17 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-26)
+## LLM 공식 블로그 업데이트 (2026-10-27)
 
 ### OpenAI
-- [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) (Fri, 23 Oct 2026 17:00:00 GMT)
-- [Securing our frontier model training environment](https://openai.com/index/securing-our-frontier-model-training-environment) (Fri, 23 Oct 2026 10:00:00 GMT)
-- [OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership) (Fri, 23 Oct 2026 00:00:00 GMT)
+- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) (Mon, 26 Oct 2026 22:00:00 GMT)
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities) (Mon, 26 Oct 2026 14:30:00 GMT)
+- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) (Mon, 26 Oct 2026 13:45:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
 
 ### Google AI
+- [Our newest AI Quest: Mapping the human brain](https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/) (Mon, 26 Oct 2026 16:00:00 +0000)
 - [Southeast Asia’s digital economy to hit $368 billion](https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/) (Wed, 21 Oct 2026 04:00:00 +0000)
 - [Gemini 4 Argon: Built to solve your hardest problems](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/) (Tue, 13 Oct 2026 16:00:00 +0000)
-- [Introducing Playground: Create and play custom games](https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/) (Wed, 07 Oct 2026 12:00:00 +0000)
 
