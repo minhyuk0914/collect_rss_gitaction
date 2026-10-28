@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-27)
+## LLM 공식 블로그 업데이트 (2026-10-28)
 
 ### OpenAI
-- [Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra) (Mon, 26 Oct 2026 22:00:00 GMT)
-- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities) (Mon, 26 Oct 2026 14:30:00 GMT)
-- [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security) (Mon, 26 Oct 2026 13:45:00 GMT)
+- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) (Tue, 27 Oct 2026 15:00:00 GMT)
+- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) (Tue, 27 Oct 2026 07:00:00 GMT)
+- [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak) (Tue, 27 Oct 2026 00:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
