@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-28)
+## LLM 공식 블로그 업데이트 (2026-10-29)
 
 ### OpenAI
-- [Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai) (Tue, 27 Oct 2026 15:00:00 GMT)
-- [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt) (Tue, 27 Oct 2026 07:00:00 GMT)
-- [How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak) (Tue, 27 Oct 2026 00:00:00 GMT)
+- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) (Wed, 28 Oct 2026 13:15:00 GMT)
+- [The future of the firm](https://openai.com/index/the-future-of-the-firm) (Wed, 28 Oct 2026 10:00:00 GMT)
+- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora) (Wed, 28 Oct 2026 09:30:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
