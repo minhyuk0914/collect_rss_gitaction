@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-29)
+## LLM 공식 블로그 업데이트 (2026-10-30)
 
 ### OpenAI
-- [OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion) (Wed, 28 Oct 2026 13:15:00 GMT)
-- [The future of the firm](https://openai.com/index/the-future-of-the-firm) (Wed, 28 Oct 2026 10:00:00 GMT)
-- [Legora is building the agentic operating system for legal work](https://openai.com/index/legora) (Wed, 28 Oct 2026 09:30:00 GMT)
+- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec) (Thu, 29 Oct 2026 17:00:00 GMT)
+- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment) (Thu, 29 Oct 2026 09:00:00 GMT)
+- [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence) (Thu, 29 Oct 2026 07:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
