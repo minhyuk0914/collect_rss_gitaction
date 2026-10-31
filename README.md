@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-10-30)
+## LLM 공식 블로그 업데이트 (2026-10-31)
 
 ### OpenAI
-- [An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec) (Thu, 29 Oct 2026 17:00:00 GMT)
-- [How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment) (Thu, 29 Oct 2026 09:00:00 GMT)
-- [How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence) (Thu, 29 Oct 2026 07:00:00 GMT)
+- [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) (Fri, 30 Oct 2026 09:30:00 GMT)
+- [Community safety report and new protections for teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens) (Fri, 30 Oct 2026 09:00:00 GMT)
+- [Fair use benefits everyone](https://openai.com/index/fair-use-benefits-everyone) (Fri, 30 Oct 2026 00:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
