@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-01)
+## LLM 공식 블로그 업데이트 (2026-11-02)
 
 ### OpenAI
 - [Making it easier for websites to express AI training preferences](https://openai.com/index/helping-websites-express-ai-training-preferences) (Fri, 30 Oct 2026 09:30:00 GMT)
