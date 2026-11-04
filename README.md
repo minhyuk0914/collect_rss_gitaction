@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-03)
+## LLM 공식 블로그 업데이트 (2026-11-04)
 
 ### OpenAI
-- [Scaling Git at OpenAI](https://openai.com/index/scaling-git-at-openai) (Mon, 02 Nov 2026 15:30:00 GMT)
-- [Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program) (Mon, 02 Nov 2026 15:00:00 GMT)
-- [Preparing our next security sprint to harden OpenAI](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai) (Mon, 02 Nov 2026 18:00:00 GMT)
+- [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world) (Tue, 03 Nov 2026 12:00:00 GMT)
+- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber) (Tue, 03 Nov 2026 08:00:00 GMT)
+- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden) (Tue, 03 Nov 2026 08:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
