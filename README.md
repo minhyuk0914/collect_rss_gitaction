@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-04)
+## LLM 공식 블로그 업데이트 (2026-11-05)
 
 ### OpenAI
-- [Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world) (Tue, 03 Nov 2026 12:00:00 GMT)
-- [How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber) (Tue, 03 Nov 2026 08:00:00 GMT)
-- [Heimstaden is changing residential real estate management with AI](https://openai.com/index/heimstaden) (Tue, 03 Nov 2026 08:00:00 GMT)
+- [OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre) (Wed, 04 Nov 2026 14:30:00 GMT)
+- [Daybreak Red is now available in AWS GovCloud (US-East)](https://openai.com/index/daybreak-red-aws-govcloud) (Wed, 04 Nov 2026 07:00:00 GMT)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root) (Wed, 04 Nov 2026 08:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
