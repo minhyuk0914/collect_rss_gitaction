@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-07)
+## LLM 공식 블로그 업데이트 (2026-11-09)
 
 ### OpenAI
 - [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron) (Fri, 06 Nov 2026 08:00:00 GMT)
