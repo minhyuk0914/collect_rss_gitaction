@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-09)
+## LLM 공식 블로그 업데이트 (2026-11-10)
 
 ### OpenAI
-- [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](https://openai.com/index/partnering-with-hacktron) (Fri, 06 Nov 2026 08:00:00 GMT)
-- [Measuring how AI agents handle everyday wet-lab science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science) (Fri, 06 Nov 2026 00:00:00 GMT)
-- [Australian universities are creating AI-native graduates](https://openai.com/index/australian-universities-ai-native-graduates) (Thu, 05 Nov 2026 17:00:00 GMT)
+- [Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education) (Tue, 10 Nov 2026 09:00:00 GMT)
+- [ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace) (Mon, 09 Nov 2026 19:00:00 GMT)
+- [Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room) (Mon, 09 Nov 2026 13:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
