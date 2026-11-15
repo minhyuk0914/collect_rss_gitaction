@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-14)
+## LLM 공식 블로그 업데이트 (2026-11-15)
 
 ### OpenAI
 - [Introducing ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet) (Fri, 13 Nov 2026 15:00:00 GMT)
