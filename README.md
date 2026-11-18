@@ -1,17 +1,17 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-17)
+## LLM 공식 블로그 업데이트 (2026-11-18)
 
 ### OpenAI
+- [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership) (Wed, 18 Nov 2026 00:00:00 GMT)
+- [Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol) (Tue, 17 Nov 2026 17:45:00 GMT)
 - [Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) (Tue, 17 Nov 2026 00:00:00 GMT)
-- [Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers) (Mon, 16 Nov 2026 17:00:00 GMT)
-- [Strengthening the fight against online child sexual abuse with new tools and support](https://openai.com/index/strengthening-online-child-safety) (Mon, 16 Nov 2026 17:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
 
 ### Google AI
+- [Put Gemini to work for you](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/) (Tue, 17 Nov 2026 17:00:00 +0000)
 - [New Ask Maps features to help with holiday travel and prep](https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/) (Mon, 16 Nov 2026 14:00:00 +0000)
 - [Google Search gets a major upgrade with Gemini 4 Hydrogen](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/) (Thu, 12 Nov 2026 18:00:00 +0000)
-- [Gemini Decisions API: Fast, calibrated multimodal decisions](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/) (Wed, 11 Nov 2026 18:00:00 +0000)
 
