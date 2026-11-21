@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-20)
+## LLM 공식 블로그 업데이트 (2026-11-21)
 
 ### OpenAI
-- [How OpenAI’s Performance Factory keeps ChatGPT fast](https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast) (Thu, 19 Nov 2026 08:00:00 GMT)
-- [Deploying Daybreak Red](https://openai.com/business/learn/deploying-daybreak-red) (Thu, 19 Nov 2026 00:00:00 GMT)
-- [See PR scans in action](https://openai.com/business/learn/pr-scans-demo) (Thu, 19 Nov 2026 00:00:00 GMT)
+- [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) (Fri, 20 Nov 2026 10:00:00 GMT)
+- [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia) (Fri, 20 Nov 2026 00:00:00 GMT)
+- [Can AI help scientists identify promising drug candidates?](https://openai.com/index/introducing-medchembench) (Fri, 20 Nov 2026 00:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
