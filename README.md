@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-21)
+## LLM 공식 블로그 업데이트 (2026-11-22)
 
 ### OpenAI
 - [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) (Fri, 20 Nov 2026 10:00:00 GMT)
