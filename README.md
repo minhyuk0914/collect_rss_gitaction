@@ -1,11 +1,11 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-22)
+## LLM 공식 블로그 업데이트 (2026-11-23)
 
 ### OpenAI
+- [Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence) (Sun, 22 Nov 2026 00:00:00 GMT)
 - [Combatting adversarial distillation](https://openai.com/index/combatting-adversarial-distillation) (Fri, 20 Nov 2026 10:00:00 GMT)
 - [Hebbia sees improvements in financial research with GPT-6 Astra](https://openai.com/business/customer-stories/hebbia) (Fri, 20 Nov 2026 00:00:00 GMT)
-- [Can AI help scientists identify promising drug candidates?](https://openai.com/index/introducing-medchembench) (Fri, 20 Nov 2026 00:00:00 GMT)
 
 ### Anthropic
 - 최근 소식이 없습니다.
