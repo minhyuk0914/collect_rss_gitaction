@@ -1,6 +1,6 @@
 # My LLM Knowledge Base
 
-## LLM 공식 블로그 업데이트 (2026-11-26)
+## LLM 공식 블로그 업데이트 (2026-11-27)
 
 ### OpenAI
 - [GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities) (Tue, 24 Nov 2026 13:00:00 GMT)
